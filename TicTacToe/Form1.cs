@@ -17,6 +17,7 @@ namespace TicTacToe
             X, O
         }
 
+
         Player currentPlayer;
         Random random = new Random();
         int playerWinCount = 0;
